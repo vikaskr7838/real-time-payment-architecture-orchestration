@@ -56,12 +56,12 @@ Reflecting:
 - Enterprise-grade reliability  
 
 ## 🖼 Architecture Diagrams
-![Architecture Dark](rtp_architecture_dark.png)
-![Kafka Streaming](rtp_kafka_event_streaming.png)
-![E2E Lifecycle](rtp_end_to_end_lifecycle.png)
-![Unified Mega Diagram](rtp_unified_mega_diagram.png)
-![Layered Architecture](rtp_layered_architecture.png)
-![Component Graph](rtp_component_dependency_graph.png)
+![Architecture Dark](diagrams/rtp_architecture_dark.png)
+![Kafka Streaming](diagrams/rtp_kafka_event_streaming.png)
+![E2E Lifecycle](diagrams/rtp_end_to_end_lifecycle.png)
+![Unified Mega Diagram](diagrams/rtp_unified_mega_diagram.png)
+![Layered Architecture](diagrams/rtp_layered_architecture.png)
+![Component Graph](diagrams/rtp_component_dependency_graph.png)
 
 ## 📂 Project Structure
 ```
@@ -133,6 +133,3 @@ See **docs/References.md** for a complete list of RTP, ISO 20022, FedNow®, SEPA
 Senior Payments Architect | RTP | ISO 20022 | Core Banking | Event-Driven Systems
 
 This project contributes to global real-time payment modernization and demonstrates original architectural work aligned with EB-1A criteria.
-
-## 🛡 License
-MIT License
