@@ -56,7 +56,8 @@ Reflecting:
 - Enterprise-grade reliability  
 
 ## 🖼 Architecture Diagrams
-![RTP_Architecture](diagrams/ARCHBLOG-1180-image-3.png)
+![RTP_Architecture](diagrams/Real-time_Payments_RefArch.png)
+![RTP_Orchestration](diagrams/ARCHBLOG-1180-image-3.png)
 
 
 ## 📂 Project Structure
