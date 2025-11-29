@@ -57,6 +57,8 @@ Reflecting:
 
 ## 🖼 Architecture Diagrams
 ![RTP_Architecture](diagrams/Real-time_Payments_RefArch.png)
+
+## 🖼 Orchestration Diagrams
 ![RTP_Orchestration](diagrams/ARCHBLOG-1180-image-3.png)
 
 
